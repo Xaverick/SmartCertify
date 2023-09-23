@@ -14,7 +14,7 @@ const Panel = () => {
         </div>
 
         <div className="panel-header-content">
-          <h1>Welcome to Service</h1>
+          <h1>Unlocking the Future of Digital Credentials</h1>
         </div>
       </div>
 

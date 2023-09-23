@@ -31,7 +31,7 @@ const Header = () => {
           </div>
 
           <div className='header-content'>
-            <h1>Shaping the future <br /> through Web 3.</h1>
+            <h1>Certify with Confidence, <br />Verify with Blockchain</h1>
             <Link to="/panel" className='link'>Get Started</Link>
           </div>
         </div>

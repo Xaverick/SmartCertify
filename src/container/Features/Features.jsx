@@ -15,56 +15,54 @@ const Features = () => {
       <div className="feature-content">
         <div className="feature-header">
           <img src={asset8} alt="" />
-          <h1>The GENESIS <br /> of <span> Matterblock. </span></h1>
+          <h1>The Inception <br /> of <span> BlockCertify </span></h1>
           <p>
-            There’s plenty of money being thrown around but it takes more than money to build the future. To be a success in this ecosystem you need access a Swiss Army Knife of tools, network & exposure. We’re the rarest of investment partners - sharing this access with you. We have the battle-scars and the network needed to support high-quality projects in leaping to your next level and beyond.
+          the beginning of a groundbreaking journey in the world of digital credentials. From the very outset, SmartCertify was conceived with a clear mission in mind – to revolutionize the way certificates and credentials are issued, managed, and verified. It was born out of a vision to enhance the trust and security surrounding educational and professional achievements, using the power of blockchain technology. SmartCertify's founders embarked on this path with a deep commitment to eliminating fraud, fostering lifelong learning, and promoting global recognition of digital credentials. This inception represents the first step toward a future where individuals and organizations can transact in a transparent, tamper-proof, and efficient ecosystem of verifiable certificates, facilitating a seamless exchange of knowledge and skills on a global scale.
+
           </p>
         </div>
 
         <div className="feature-cards">
           <div className="feature-card">
             <img src={asset9} alt="Logo here" />
-            <h1 className="feature-card-header">Business Success Strategies</h1>
+            <h1 className="feature-card-header">Blockchain-Powered Security</h1>
             <ul>
-              <li>2012 years in the industry</li>
-              <li>Personal support from established CEOs & experts</li>
-              <li>Review and feedback on your business model</li>
-              <li>Go-to-market strategy</li>
+              <li>Immutable Records</li>
+              <li>Guarding Against Fraud</li>
+              <li>Forgery Deterrence</li>
+              <li>Building Trust</li>
             </ul>
           </div>
 
           <div className="feature-card dull-white">
             <img src={asset10} alt="Logo here" />
-            <h1 className="feature-card-header">Business Success Strategies</h1>
+            <h1 className="feature-card-header">Transparent Verification with Blockchain </h1>
             <ul>
-              <li>2012 years in the industry</li>
-              <li>Personal support from established CEOs & experts</li>
-              <li>Review and feedback on your business model</li>
-              <li>Go-to-market strategy</li>
+              <li>Instant Authentication</li>
+              <li>End-to-End Transparency</li>
+              <li>Enhanced Credibility</li>
             </ul>
           </div>
 
           <div className="feature-card">
             <img src={asset10} alt="Logo here" />
-            <h1 className="feature-card-header">Business Success Strategies</h1>
+            <h1 className="feature-card-header">Pioneering Certificate Control And Innovation</h1>
             <ul>
-              <li>2012 years in the industry</li>
-              <li>Personal support from established CEOs & experts</li>
-              <li>Review and feedback on your business model</li>
-              <li>Go-to-market strategy</li>
+              <li>Empowering Control</li>
+              <li>Leading Blockchain Innovation</li>
+              <li>User-Centric Approach</li>
             </ul>
           </div>
 
-          <div className="feature-card dull-white">
+          {/* <div className="feature-card dull-white">
             <img src={asset11} alt="Logo here" />
             <h1 className="feature-card-header">Business Success Strategies</h1>
             <ul>
               <li>2012 years in the industry</li>
               <li>Personal support from established CEOs & experts</li>
               <li>Review and feedback on your business model</li>
-              <li>Go-to-market strategy</li>
             </ul>
-          </div>
+          </div> */}
 
         </div>
       </div>
