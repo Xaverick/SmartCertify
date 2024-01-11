@@ -1,5 +1,5 @@
 import React from 'react'
-import './header.scss'
+import './Header.scss'
 import ParticleFlow from '../../components/ParticleFlow/ParticleFlow'
 import { Link } from 'react-router-dom';
 import {Navbar } from '../../components'
