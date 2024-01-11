@@ -1,5 +1,5 @@
 import React from "react";
-import "./panel.scss";
+import "./Panel.scss";
 import { Link } from 'react-router-dom';
 
 
